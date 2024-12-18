@@ -1,0 +1,277 @@
+{
+    "doguinhos": [
+        {
+            "nome": "Afegão Hound"
+        },
+        {
+            "nome": "Affenpinscher"
+        },
+        {
+            "nome": "Airedale Terrier"
+        },
+        {
+            "nome": "Akita"
+        },
+        {
+            "nome": "American Staffordshire Terrier"
+        },
+        {
+            "nome": "Basenji"
+        },
+        {
+            "nome": "Basset Hound"
+        },
+        {
+            "nome": "Beagle"
+        },
+        {
+            "nome": "Beagle Harrier"
+        },
+        {
+            "nome": "Bearded Collie"
+        },
+        {
+            "nome": "Bedlington Terrier"
+        },
+        {
+            "nome": "Bichon Frisé"
+        },
+        {
+            "nome": "Bloodhound"
+        },
+        {
+            "nome": "Bobtail"
+        },
+        {
+            "nome": "Boiadeiro Australiano"
+        },
+        {
+            "nome": "Boiadeiro Bernês"
+        },
+        {
+            "nome": "Border Collie"
+        },
+        {
+            "nome": "Border Terrier"
+        },
+        {
+            "nome": "Borzoi"
+        },
+        {
+            "nome": "Boston Terrier"
+        },
+        {
+            "nome": "Boxer"
+        },
+        {
+            "nome": "Buldogue Francês"
+        },
+        {
+            "nome": "Buldogue Inglês"
+        },
+        {
+            "nome": "Bull Terrier"
+        },
+        {
+            "nome": "Bulmastife"
+        },
+        {
+            "nome": "Cairn Terrier"
+        },
+        {
+            "nome": "Cane Corso"
+        },
+        {
+            "nome": "Cão de Água Português"
+        },
+        {
+            "nome": "Cão de Crista Chinês"
+        },
+        {
+            "nome": "Cavalier King Charles Spaniel"
+        },
+        {
+            "nome": "Chesapeake Bay Retriever"
+        },
+        {
+            "nome": "Chihuahua"
+        },
+        {
+            "nome": "Chow Chow"
+        },
+        {
+            "nome": "Cocker Spaniel Americano"
+        },
+        {
+            "nome": "Cocker Spaniel Inglês"
+        },
+        {
+            "nome": "Collie"
+        },
+        {
+            "nome": "Coton de Tuléar"
+        },
+        {
+            "nome": "Dachshund"
+        },
+        {
+            "nome": "Dálmata"
+        },
+        {
+            "nome": "Dandie Dinmont Terrier"
+        },
+        {
+            "nome": "Dobermann"
+        },
+        {
+            "nome": "Dogo Argentino"
+        },
+        {
+            "nome": "Dogue Alemão"
+        },
+        {
+            "nome": "Fila Brasileiro"
+        },
+        {
+            "nome": "Fox Terrier (Pelo Duro e Pelo Liso)"
+        },
+        {
+            "nome": "Foxhound Inglês"
+        },
+        {
+            "nome": "Galgo Escocês"
+        },
+        {
+            "nome": "Galgo Irlandês"
+        },
+        {
+            "nome": "Golden Retriever"
+        },
+        {
+            "nome": "Grande Boiadeiro Suiço"
+        },
+        {
+            "nome": "Greyhound"
+        },
+        {
+            "nome": "Grifo da Bélgica"
+        },
+        {
+            "nome": "Husky Siberiano"
+        },
+        {
+            "nome": "Jack Russell Terrier"
+        },
+        {
+            "nome": "King Charles"
+        },
+        {
+            "nome": "Komondor"
+        },
+        {
+            "nome": "Labradoodle"
+        },
+        {
+            "nome": "Labrador Retriever"
+        },
+        {
+            "nome": "Lakeland Terrier"
+        },
+        {
+            "nome": "Leonberger"
+        },
+        {
+            "nome": "Lhasa Apso"
+        },
+        {
+            "nome": "Lulu da Pomerânia"
+        },
+        {
+            "nome": "Malamute do Alasca"
+        },
+        {
+            "nome": "Maltês"
+        },
+        {
+            "nome": "Mastife"
+        },
+        {
+            "nome": "Mastim Napolitano"
+        },
+        {
+            "nome": "Mastim Tibetano"
+        },
+        {
+            "nome": "Norfolk Terrier"
+        },
+        {
+            "nome": "Norwich Terrier"
+        },
+        {
+            "nome": "Papillon"
+        },
+        {
+            "nome": "Pastor Alemão"
+        },
+        {
+            "nome": "Pastor Australiano"
+        },
+        {
+            "nome": "Pinscher Miniatura"
+        },
+        {
+            "nome": "Poodle"
+        },
+        {
+            "nome": "Pug"
+        },
+        {
+            "nome": "Rottweiler"
+        },
+        {
+            "nome": "Sem Raça Definida (SRD)"
+        },
+        {
+            "nome": "ShihTzu"
+        },
+        {
+            "nome": "Silky Terrier"
+        },
+        {
+            "nome": "Skye Terrier"
+        },
+        {
+            "nome": "Staffordshire Bull Terrier"
+        },
+        {
+            "nome": "Terra Nova"
+        },
+        {
+            "nome": "Terrier Escocês"
+        },
+        {
+            "nome": "Tosa"
+        },
+        {
+            "nome": "Weimaraner"
+        },
+        {
+            "nome": "Welsh Corgi (Cardigan)"
+        },
+        {
+            "nome": "Welsh Corgi (Pembroke)"
+        },
+        {
+            "nome": "West Highland White Terrier"
+        },
+        {
+            "nome": "Whippet"
+        },
+        {
+            "nome": "Xoloitzcuintli"
+        },
+        {
+            "nome": "Yorkshire Terrier"
+        }
+    ]
+}
